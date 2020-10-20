@@ -75,7 +75,7 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-     56: '0xE2D1B285d83efb935134F644d00FB7c943e84B5B',
+     56: '0x55F35302bd26D87060C1a1eFF06dE664d3323085',
     },
     tokenAddresses: {
       56: '0x1fee1e25A2d2DD9677d0358B7809Acc442A039C7',
@@ -85,30 +85,5 @@ export const supportedPools = [
     tokenSymbol: 'SGR',
     icon: '🍬',
   },
-  {
-    pid: 1,
-    lpAddresses: {
-     56: '0xE2D1B285d83efb935134F644d00FB7c943e84B5B',
-    },
-    tokenAddresses: {
-      56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
-    },
-    name: 'BUSD',
-    symbol: 'BUSD-BNB FLP',
-    tokenSymbol: 'SGR',
-    icon: '💲',
-  },
-  {
-    pid: 2,
-    lpAddresses: {
-     56: '0xE2D1B285d83efb935134F644d00FB7c943e84B5B',
-    },
-    tokenAddresses: {
-      56: '0xF35145e28e1dd67055221739D8554E0b5C7Adcd5',
-    },
-    name: 'ADA',
-    symbol: 'ADA-BNB FLIP',
-    tokenSymbol: 'SGR',
-    icon: '💲',
-  },
+  
 ]
