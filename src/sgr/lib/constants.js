@@ -75,10 +75,10 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-     '0x1fee1e25A2d2DD9677d0358B7809Acc442A039C7',
+    56: '0x1fee1e25A2d2DD9677d0358B7809Acc442A039C7',
     },
     tokenAddresses: {
-      '0x1fee1e25A2d2DD9677d0358B7809Acc442A039C7',
+     56: '0x1fee1e25A2d2DD9677d0358B7809Acc442A039C7',
     },
     name: 'Sgr Party!',
     symbol: 'SGR-SGR FLP',
