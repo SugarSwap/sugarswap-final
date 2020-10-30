@@ -40,7 +40,7 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   sgr: {
-    56: '0x1fee1e25A2d2DD9677d0358B7809Acc442A039C7',
+    56: '0x75719d776Eb9067e7D5B77A4A853eEd53FBA0D31',
   },
   masterChef: {
     56: '0x35601CE8eF0c60Bf23b4A12A539612F833BAdC72',
