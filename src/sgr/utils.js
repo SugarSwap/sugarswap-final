@@ -74,7 +74,7 @@ export const getPoolWeight = async (masterChefContract, pid) => {
 }
 
 export const getEarned = async (masterChefContract, pid, account) => {
-  return masterChefContract.methods.pendingSGR(pid, account).call()
+  return masterChefContract.methods.pendingSgr(pid, account).call()
 }
 
 export const getTotalLPWethValue = async (
