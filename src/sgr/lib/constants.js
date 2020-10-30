@@ -40,16 +40,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   sgr: {
-    56: '0x75719d776Eb9067e7D5B77A4A853eEd53FBA0D31',
+    56: '0xf76649325E47563F9Ea17C004e60a6A9E8285bf4',
   },
   masterChef: {
-    56: '0xeE733CC94A793ed52120853207030387E852eaA3',
+    56: '0x08B883491d832835951b06A80D47dBeE2FDDd8b6',
   },
   weth: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
   },
   xSgr: {
-    56: '0xd521BF639BAA20aEdFa6594bb70F756fEa799101'
+    56: '0xFd033772bD0d466619d278f79Db95e7F60300719'
   }
 }
 
@@ -73,12 +73,12 @@ SLP Address on mainnet for reference
 
 export const supportedPools = [
   {
-    pid: 2,
+    pid: 0,
     lpAddresses: {
     56: '0x142d81e9cd4be8b35601ef77b21f0fa1a8da666d',
     },
     tokenAddresses: {
-     56: '0x75719d776Eb9067e7D5B77A4A853eEd53FBA0D31',
+     56: '0xf76649325E47563F9Ea17C004e60a6A9E8285bf4',
     },
     name: 'Sgr Party!',
     symbol: 'SGR-SGR FLP',
