@@ -1,4 +1,4 @@
 //export const sgr = '0xdAE59408fC12c439D6F7607af4261D6756d9E7CF'
-export const sgrv2 = '0x4ed7BB89C2408D8eC4187CDeA2926E240b2688F2'
-export const sgrAddress = '0x7d98cd88574968495BBA8eBB5bFFDE456ff2E35a'
-export const masterChefAddress = '0x156ec8c07d8614e96a32a8b1355F3E181C060f52'
+export const sgrv2 = '0x61c476E52C1F107490A16871fd1Ca2854DC728c7'
+export const sgrAddress = '0x4Fc1b7B78c479fFb4464Ac33D15E2195BA797b6D'
+export const masterChefAddress = '0x91B58EABE048a10610513fA658C0d8e6EDc9d551'
