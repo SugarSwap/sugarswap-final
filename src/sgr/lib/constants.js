@@ -81,7 +81,7 @@ export const supportedPools = [
      56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
     },
     name: 'Sgr Party!',
-    symbol: 'SGR-SGR FLP',
+    symbol: 'SGR-BNB FLP',
     tokenSymbol: 'SGR',
     icon: '🍬',
   },
@@ -108,6 +108,19 @@ export const supportedPools = [
     },
     name: 'BUSD USDT',
     symbol: 'BUSD USDT FLP',
+    tokenSymbol: 'SGR',
+    icon: '🍬',
+  },
+  {
+    pid: 3,
+    lpAddresses: {
+    56: '0x1b96b92314c44b159149f7e0303511fb2fc4774f',
+    },
+    tokenAddresses: {
+     56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
+    },
+    name: 'BNB BUSD',
+    symbol: 'BNB BUSD FLP',
     tokenSymbol: 'SGR',
     icon: '🍬',
   },
