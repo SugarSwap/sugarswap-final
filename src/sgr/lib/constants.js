@@ -49,7 +49,7 @@ export const contractAddresses = {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
   },
   xSgr: {
-    56: '0xFd033772bD0d466619d278f79Db95e7F60300719'
+    56: '0x96667A015461c9003c5DA58Fde5f3d63CC93eB6C'
   }
 }
 
