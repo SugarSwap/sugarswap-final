@@ -98,5 +98,18 @@ export const supportedPools = [
     tokenSymbol: 'SGR',
     icon: '🍬',
   },
+  {
+    pid: 2,
+    lpAddresses: {
+    56: '0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd',
+    },
+    tokenAddresses: {
+     56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
+    },
+    name: 'BUSD USDT',
+    symbol: 'BUSD USDT FLP',
+    tokenSymbol: 'SGR',
+    icon: '🍬',
+  },
   
 ]
