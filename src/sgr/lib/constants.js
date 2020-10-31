@@ -40,7 +40,7 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   sgr: {
-    56: '0x4ed7BB89C2408D8eC4187CDeA2926E240b2688F2',
+    56: '0x61c476E52C1F107490A16871fd1Ca2854DC728c7',
   },
   masterChef: {
     56: '0x156ec8c07d8614e96a32a8b1355F3E181C060f52',
@@ -78,7 +78,7 @@ export const supportedPools = [
     56: '0x1a06948f3c723861345704e63fd29ee562911a83',
     },
     tokenAddresses: {
-     56: '0x4ed7BB89C2408D8eC4187CDeA2926E240b2688F2',
+     56: '0x61c476E52C1F107490A16871fd1Ca2854DC728c7',
     },
     name: 'Sgr Party!',
     symbol: 'SGR-SGR FLP',
