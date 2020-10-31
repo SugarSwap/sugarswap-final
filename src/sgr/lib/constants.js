@@ -43,13 +43,13 @@ export const contractAddresses = {
     56: '0x61c476E52C1F107490A16871fd1Ca2854DC728c7',
   },
   masterChef: {
-    56: '0x156ec8c07d8614e96a32a8b1355F3E181C060f52',
+    56: '0x91B58EABE048a10610513fA658C0d8e6EDc9d551',
   },
   weth: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
   },
   xSgr: {
-    56: '0x96667A015461c9003c5DA58Fde5f3d63CC93eB6C'
+    56: '0x124c2979E4feCeC16717498e91a3d30fa0C80a3E'
   }
 }
 
