@@ -93,8 +93,8 @@ export const supportedPools = [
     tokenAddresses: {
      56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
     },
-    name: 'Sgr Party!',
-    symbol: 'SGR-SGR FLP',
+    name: 'BNB TWT',
+    symbol: 'BNB-TWT FLP',
     tokenSymbol: 'SGR',
     icon: '🍬',
   },
