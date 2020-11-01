@@ -11,8 +11,8 @@ const Nav: React.FC = () => {
       <StyledLink exact activeClassName="active" to="/farms">
         Menu
       </StyledLink>
-      <StyledLink exact activeClassName="active" to="/staking">
-        Staking
+      <StyledLink exact activeClassName="active" to="#">
+        Staking (coming soon)
       </StyledLink>
       <StyledAbsoluteLink
         href="https://exchange.sugarswap.finance"
