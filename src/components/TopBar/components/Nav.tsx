@@ -9,7 +9,7 @@ const Nav: React.FC = () => {
         Home
       </StyledLink>
        <StyledAbsoluteLink
-        href="https://timer.sugarswap.finance"
+        href="https://time.sugarswap.finance"
         target="_blank"
       >
         Farm
