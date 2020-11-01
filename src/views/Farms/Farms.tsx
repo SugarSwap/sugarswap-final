@@ -38,9 +38,7 @@ const Farms: React.FC = () => {
           </>
         ) : (
           
-          <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-2wkq" class="countdown-timer" data-timezone="Europe/Dublin" data-date="2020-11-02 11:30" data-background="#13f5c8">Farming will Start on</a>
-	
+ 
           <div
             style={{
               alignItems: 'center',
