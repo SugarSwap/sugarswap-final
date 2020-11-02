@@ -8,12 +8,9 @@ const Nav: React.FC = () => {
       <StyledLink exact activeClassName="active" to="/">
         Home
       </StyledLink>
-       <StyledAbsoluteLink
-        href="https://time.sugarswap.finance"
-        target="_blank"
-      >
+        <StyledLink exact activeClassName="active" to="/farms">
         Farm
-      </StyledAbsoluteLink>
+      </StyledLink>
       <StyledLink exact activeClassName="active" to="#">
         Staking (coming soon)
       </StyledLink>
