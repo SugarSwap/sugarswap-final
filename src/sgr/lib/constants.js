@@ -40,16 +40,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   sgr: {
-    56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
+    56: '0x32a3cBB5e0c65e5C03F8bd617Eecec1C46f414AD',
   },
   masterChef: {
-    56: '0x58f2519Ba1A93F1939c2cD292f840B08f20eE8f1',
+    56: '0x43bee8d9129307A08f76e7f03f82C13170cf3074',
   },
   weth: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
   },
   xSgr: {
-    56: '0x4972937737b34C09641F80136719De6F1537692A'
+    56: '0xf8F771CeFFC9Cce8d4161C4CBb3785cD6706d616'
   }
 }
 
@@ -78,7 +78,7 @@ export const supportedPools = [
     56: '0x8a6032d170214f144234d6b371b3d6e959c03acb',
     },
     tokenAddresses: {
-     56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
+     56: '0x32a3cBB5e0c65e5C03F8bd617Eecec1C46f414AD',
     },
     name: 'Sgr Party!',
     symbol: 'SGR-BNB FLP',
@@ -91,7 +91,7 @@ export const supportedPools = [
     56: '0x610e7a287c27dffcac0f0a94f547cc1b770cf483',
     },
     tokenAddresses: {
-     56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
+     56: '0x32a3cBB5e0c65e5C03F8bd617Eecec1C46f414AD',
     },
     name: 'BNB TWT',
     symbol: 'BNB-TWT FLP',
@@ -104,7 +104,7 @@ export const supportedPools = [
     56: '0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd',
     },
     tokenAddresses: {
-     56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
+     56: '0x32a3cBB5e0c65e5C03F8bd617Eecec1C46f414AD',
     },
     name: 'BUSD USDT',
     symbol: 'BUSD USDT FLP',
@@ -117,7 +117,7 @@ export const supportedPools = [
     56: '0x1b96b92314c44b159149f7e0303511fb2fc4774f',
     },
     tokenAddresses: {
-     56: '0xCD2519080796AD7147248b32deb3135d90E54Bea',
+     56: '0x32a3cBB5e0c65e5C03F8bd617Eecec1C46f414AD',
     },
     name: 'BNB BUSD',
     symbol: 'BNB BUSD FLP',
